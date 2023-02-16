@@ -8,4 +8,4 @@ Scripts existants :
 
 * [création d'une sitothèque à partir d'un tableur](/doc/sitotheque_from_table) :
   * en Python, s'exécute via [sitotheque_from_table_GUI.py](/sitotheque_from_table_GUI.py)
-  * pour télécharger l'exécutable : [dernière release : v0.1 (16/02/2023)]([/releases/tag/v0.1-Sitotheque_Bokeh](https://github.com/Alban-Peyrat/Bokeh_generate_articles/releases/tag/v0.1-Sitotheque_Bokeh))
+  * pour télécharger l'exécutable : [dernière release : v0.1 (16/02/2023)](https://github.com/Alban-Peyrat/Bokeh_generate_articles/releases/tag/v0.1-Sitotheque_Bokeh)
