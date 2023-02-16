@@ -11,7 +11,7 @@ _Basé sur l'article ID 167 ([Les ressources cartographiques sur internet](https
 |Category|Sub-category|Name|URL|Description|
 |---|---|---|---|---|
 |France|Bretagne|Datarmor|https://datarmor.cotesdarmor.fr/|Portail opendata du Conseil Départemental des Côtes d'Armor et ses partenaires, des données à télécharger (CSV, GeoJSON, ...)|
-|Monde|Autriche,Allemagne|Kompass|https://www.kompass.de/|entreprise de cartographie mettant à disposition gratuite des cartes de l’Autriche et de l’Allemagne|
+|Monde|Autriche|Kompass|https://www.kompass.de/|entreprise de cartographie mettant à disposition gratuite des cartes de l’Autriche et de l’Allemagne|
 
 ## Spécifications du tableur
 
